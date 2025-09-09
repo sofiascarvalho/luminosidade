@@ -67,8 +67,8 @@ O sensor detecta níveis de umidade; dependendo do valor, irá acionar o LED par
 
 ## 4. Contagem de Frascos em Esteira
 
-![]()
-
+![](./img/65426108-a883-4d84-af3d-5ac3f128fb9a-1_all_53561.jpg)
+![](./img/65426108-a883-4d84-af3d-5ac3f128fb9a-1_all_53560.jpg)
 
 ### Descrição:
 Solução para a Alpha Corp, indústria de cosméticos, que embala sempre 10 frascos por caixa.
